@@ -1,0 +1,30 @@
+
+Valid Declaration
+invalid declaration
+
+Valid Declaration
+
+Valid Declaration
+valid work
+assignment
+valid work
+In if 8
+valid work
+valid work
+if condition is true 9
+valid work
+for loop
+4
+4
+4
+valid work
+while loop
+7
+7
+7
+7
+7
+the multiplicaiton is : 6
+the square is : 4
+the root is :2
+inside main fun
